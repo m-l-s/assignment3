@@ -1,4 +1,5 @@
 #!/usr/bin/env sh
+# added a useless comment
 
 if [ $# != 2 ]
 then
